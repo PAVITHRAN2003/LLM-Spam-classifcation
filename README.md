@@ -44,11 +44,11 @@ To set up the project locally, follow these steps:
 
 ## Usage
 The core logic for this spam classification project is contained within the Jupyter Notebook:
-* `a2_bonus_llm_TEAMMATE1_ TEAMMATE2.ipynb`
+* `llm_spam_classifcation.ipynb`
 
 To run the project:
 1.  Open the Jupyter Notebook:
     ```bash
-    jupyter notebook "a2_bonus_llm_TEAMMATE1_ TEAMMATE2.ipynb"
+    jupyter notebook "llm_spam_classifcation.ipynb"
     ```
 2.  Execute the cells sequentially to load the dataset, preprocess data, fine-tune the models, evaluate their performance, and view the comparison.
