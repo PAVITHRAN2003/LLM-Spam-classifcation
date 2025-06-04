@@ -1,7 +1,5 @@
 # LLM-Spam-classifcation
 
-# LLM-Spam-Classification
-
 ## Project Description
 This project explores the application of pre-trained Large Language Models (LLMs) for the task of email spam classification. It specifically utilizes and compares the performance of **DistilBERT** and **ALBERT** models on the Enron Spam Dataset, focusing on evaluation metrics such as accuracy, precision, recall, F1-score, and inference speed.
 
